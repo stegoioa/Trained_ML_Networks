@@ -20,7 +20,7 @@ I hope that these datasets will be useful for researchers, artists, and develope
 
 Segmentation Scale of DataSet is variable. To further reduce scale and increase dataset image count, use this script:
 
-[Batch Image Segmentation Script](/image_processing_tools/image_segmentation_and_stich.py)
+[Batch Image Segmentation .py](/image_processing_tools/image_segmentation_and_stich.py)
 
 ## Floorplans
 
