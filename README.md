@@ -1,4 +1,4 @@
-Architectural Image Datasets
+#Architectural Image Datasets
 This GitHub repository contains a collection of image-based datasets for architectural applications. The main use of these datasets is for training image-based StyleGAN2ADA and Pix2PixHD workflows.
 
 Each folder in this repository contains a dataset of images related to a particular architectural theme, such as urban landscapes, interior design, or building facades. In addition to the images themselves, each folder also includes a README file that provides a description of the dataset, the format of the images, and a link to the original source.
