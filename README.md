@@ -14,6 +14,7 @@ I hope that these datasets will be useful for researchers, artists, and develope
 ## Urban Scale
 
 ### Height Information and Density of Vienna, AT
+
 ![Urban Scale Preview Image](content/urban_heightmap/21_3.jpg)
 
 **[Tesselated HeightMap DataSet](https://drive.google.com/file/d/1yluRfJOm0j5zO3CsAXJ4i0svnm7Y5-RR/view?usp=share_link)**
@@ -39,13 +40,12 @@ In order to preprocess Images for StyleGan2ADA and PIx2PIXHD wokflows refer to:
 
 **[Altar DataSet](https://drive.google.com/drive/folders/1DZkYbFLu9nIpemP4tfRJkyxAFVj9qGnn?usp=sharing)**
 
-Segmentation Scale of DataSet is variable. To further reduce scale and increase dataset image count, use this script:
+**[Pretrained .plk Model](https://drive.google.com/file/d/1VstC0zJwrWHqJXQcOBqqelSoYdsYy3Ou/view?usp=sharing)**
 
-[Batch Image Segmentation .py](/image_processing_tools/image_segmentation_and_stich.py)
+Dataset Output Sample
 
-In order to preprocess Images for StyleGan2ADA and PIx2PIXHD wokflows refer to:
+[Model OutPut Samples](/content/altar_model_output.gif)
 
-[Image PreProcessing .py](/image_processing_tools/preprocess_images_ml.py)
 
 ## Images
 
