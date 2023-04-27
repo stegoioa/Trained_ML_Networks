@@ -23,6 +23,7 @@ Segmentation Scale of DataSet is variable. To further reduce scale and increase 
 [Batch Image Segmentation .py](/image_processing_tools/image_segmentation_and_stich.py)
 
 In order to preprocess Images for StyleGan2ADA and PIx2PIXHD wokflows refer to:
+
 [Image PreProcessing .py](/image_processing_tools/preprocess_images_ml.py)
 
 ## Floorplans
@@ -33,9 +34,18 @@ In order to preprocess Images for StyleGan2ADA and PIx2PIXHD wokflows refer to:
 
 ## Facades
 
-![Facades Preview Image](/path/to/facades_preview_image.png)
+### Height Information and Density of Vienna, AT
+![global Altar Image Dataset](content/urban_heightmap/21_3.jpg)
 
-**[Facades dataset on Google Drive](https://drive.google.com/drive/folders/your-facades-dataset-link)**
+**[Tesselated HeightMap DataSet](https://drive.google.com/file/d/1yluRfJOm0j5zO3CsAXJ4i0svnm7Y5-RR/view?usp=share_link)**
+
+Segmentation Scale of DataSet is variable. To further reduce scale and increase dataset image count, use this script:
+
+[Batch Image Segmentation .py](/image_processing_tools/image_segmentation_and_stich.py)
+
+In order to preprocess Images for StyleGan2ADA and PIx2PIXHD wokflows refer to:
+
+[Image PreProcessing .py](/image_processing_tools/preprocess_images_ml.py)
 
 ## Images
 
