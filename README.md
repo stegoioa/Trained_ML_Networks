@@ -35,16 +35,28 @@ In order to preprocess Images for StyleGan2ADA and PIx2PIXHD wokflows refer to:
 
 ## Facades
 
-### Height Information and Density of Vienna, AT
+### Sacral Architecture Motifs
 ![Global Altar Image Dataset](content/altar_preview.jpg)
 
 **[Altar DataSet](https://drive.google.com/drive/folders/1DZkYbFLu9nIpemP4tfRJkyxAFVj9qGnn?usp=sharing)**
 
+Model Output Sample
+
+![Model Output](/content/altar_model_output.gif)
+
 **[Pretrained .plk Model](https://drive.google.com/file/d/1VstC0zJwrWHqJXQcOBqqelSoYdsYy3Ou/view?usp=sharing)**
+
+
+### Facades of Vienna, AT
+![Global Altar Image Dataset](content/altar_preview.jpg)
+
+**[Altar DataSet](https://drive.google.com/drive/folders/1DZkYbFLu9nIpemP4tfRJkyxAFVj9qGnn?usp=sharing)**
 
 Model Output Sample
 
 ![Model Output](/content/altar_model_output.gif)
+
+**[Pretrained .plk Model](https://drive.google.com/file/d/1VstC0zJwrWHqJXQcOBqqelSoYdsYy3Ou/view?usp=sharing)**
 
 
 ## Images
