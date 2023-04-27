@@ -27,6 +27,20 @@ In order to preprocess Images for StyleGan2ADA and PIx2PIXHD wokflows refer to:
 
 [Image PreProcessing .py](/image_processing_tools/preprocess_images_ml.py)
 
+### Typological Information of Vienna, AT
+
+![Urban Scale Preview Image](content/urban_heightmap/21_3.jpg)
+
+**[Tesselated HeightMap DataSet](https://drive.google.com/file/d/1yluRfJOm0j5zO3CsAXJ4i0svnm7Y5-RR/view?usp=share_link)**
+
+Segmentation Scale of DataSet is variable. To further reduce scale and increase dataset image count, use this script:
+
+[Batch Image Segmentation .py](/image_processing_tools/image_segmentation_and_stich.py)
+
+In order to preprocess Images for StyleGan2ADA and PIx2PIXHD wokflows refer to:
+
+[Image PreProcessing .py](/image_processing_tools/preprocess_images_ml.py)
+
 ## Floorplans
 
 ![Floorplans Preview Image](/path/to/floorplans_preview_image.png)
@@ -46,6 +60,8 @@ Model Output Sample
 
 **[Pretrained .plk Model](https://drive.google.com/file/d/1VstC0zJwrWHqJXQcOBqqelSoYdsYy3Ou/view?usp=sharing)**
 
+ 
+ 
 
 ### Facades of Vienna, AT
 ![Global Altar Image Dataset](/content/facades_dataset.jpg)
