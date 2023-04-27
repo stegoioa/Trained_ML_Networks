@@ -48,15 +48,15 @@ Model Output Sample
 
 
 ### Facades of Vienna, AT
-![Global Altar Image Dataset](content/altar_preview.jpg)
+![Global Altar Image Dataset](/content/facades_dataset.jpg)
 
-**[Altar DataSet](https://drive.google.com/drive/folders/1DZkYbFLu9nIpemP4tfRJkyxAFVj9qGnn?usp=sharing)**
+**[Altar DataSet](https://drive.google.com/file/d/1Zcs2XAS4YxJJEf3VHqFdR0E5Npr1wqXV/view?usp=sharing)**
 
 Model Output Sample
 
 ![Model Output](/content/altar_model_output.gif)
 
-**[Pretrained .plk Model](https://drive.google.com/file/d/1VstC0zJwrWHqJXQcOBqqelSoYdsYy3Ou/view?usp=sharing)**
+**[Pretrained .plk Model](https://drive.google.com/file/d/1woaGw76VyJXyjbHZrT710yS5XHSgLq_K/view?usp=sharing)**
 
 
 ## Images
