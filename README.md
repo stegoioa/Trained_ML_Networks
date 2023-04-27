@@ -35,9 +35,9 @@ In order to preprocess Images for StyleGan2ADA and PIx2PIXHD wokflows refer to:
 ## Facades
 
 ### Height Information and Density of Vienna, AT
-![global Altar Image Dataset](content/altar_preview.jpg)
+![Global Altar Image Dataset](content/altar_preview.jpg)
 
-**[Tesselated HeightMap DataSet](https://drive.google.com/file/d/1yluRfJOm0j5zO3CsAXJ4i0svnm7Y5-RR/view?usp=share_link)**
+**[Altar DataSet](https://drive.google.com/drive/folders/1DZkYbFLu9nIpemP4tfRJkyxAFVj9qGnn?usp=sharing)**
 
 Segmentation Scale of DataSet is variable. To further reduce scale and increase dataset image count, use this script:
 
