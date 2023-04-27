@@ -14,10 +14,13 @@ I hope that these datasets will be useful for researchers, artists, and develope
 ## Urban Scale
 
 ### Height Information and Density of Vienna, AT
+![Urban Scale Preview Image](content/urban_heightmap/21_3.jpg)
 
-![Urban Scale Preview Image](/path/to/urban_scale_preview_image.png)
+**[Tesselated HeightMap DataSet](https://drive.google.com/file/d/1yluRfJOm0j5zO3CsAXJ4i0svnm7Y5-RR/view?usp=share_link)**
 
-**[Urban Scale dataset on Google Drive](https://drive.google.com/drive/folders/your-urban-scale-dataset-link)**
+Segmentation Scale of DataSet is variable. To further reduce scale and increase dataset image count, use this script:
+
+[Batch Image Segmentation Script](path/to/your/script.py)
 
 ## Floorplans
 
