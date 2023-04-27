@@ -42,9 +42,9 @@ In order to preprocess Images for StyleGan2ADA and PIx2PIXHD wokflows refer to:
 
 **[Pretrained .plk Model](https://drive.google.com/file/d/1VstC0zJwrWHqJXQcOBqqelSoYdsYy3Ou/view?usp=sharing)**
 
-Dataset Output Sample
+Model Output Sample
 
-[Model OutPut Samples](/content/altar_model_output.gif)
+![Model Output](/content/altar_model_output.gif)
 
 
 ## Images
