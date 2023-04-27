@@ -22,6 +22,9 @@ Segmentation Scale of DataSet is variable. To further reduce scale and increase 
 
 [Batch Image Segmentation .py](/image_processing_tools/image_segmentation_and_stich.py)
 
+In order to preprocess Images for StyleGan2ADA and PIx2PIXHD wokflows refer to:
+[Image PreProcessing .py](/image_processing_tools/preprocess_images_ml.py)
+
 ## Floorplans
 
 ![Floorplans Preview Image](/path/to/floorplans_preview_image.png)
