@@ -78,7 +78,7 @@ Dataset Input
 
 ![Global Altar Image Dataset](/content/facades_dataset.jpg)
 
-**[Altar DataSet](https://drive.google.com/file/d/1Zcs2XAS4YxJJEf3VHqFdR0E5Npr1wqXV/view?usp=sharing)**
+**[Facade DataSet](https://drive.google.com/file/d/1Zcs2XAS4YxJJEf3VHqFdR0E5Npr1wqXV/view?usp=sharing)**
 
 Model Output
 
