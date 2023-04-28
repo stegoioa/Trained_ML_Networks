@@ -15,9 +15,11 @@ I hope that these datasets will be useful for researchers, artists, and develope
 
 ### Height Information and Density of Vienna, AT
 
+Dataset Input
+
 ![Urban Scale Preview Image](content/urban_heightmap/21_3.jpg)
 
-**[Tesselated HeightMap DataSet](https://drive.google.com/file/d/1yluRfJOm0j5zO3CsAXJ4i0svnm7Y5-RR/view?usp=share_link)**
+**[Tesselated HeightMap DataSet](https://drive.google.com/file/d/1yluRfJOm0j5zO3CsAXJ4i0svnm7Y5-RR/view?usp=share_link)** 
 
 Segmentation Scale of DataSet is variable. To further reduce scale and increase dataset image count, use this script:
 
@@ -29,6 +31,8 @@ In order to preprocess Images for StyleGan2ADA and PIx2PIXHD wokflows refer to:
 
 ### Typological Information of Vienna, AT
 
+Dataset Input
+
 ![Urban Scale Preview Image](/content/dataset_maps_preview2.jpg)
 
 **[Tesselated HeightMap DataSet](https://drive.google.com/drive/folders/1K5diQ3pUusKVF9E_v_GBK5JxtNN_99UA?usp=share_link)**
@@ -39,18 +43,23 @@ Segmentation Scale of DataSet is variable. To further reduce scale and increase 
 
 ## Floorplans
 
-![Floorplans Preview Image](/path/to/floorplans_preview_image.png)
+![Floorplans Preview Image](/content/floorplan_model.gif)
 
-**[Floorplans dataset on Google Drive](https://drive.google.com/drive/folders/your-floorplans-dataset-link)**
+A series of pretrained StyleGan2ADA .plk models. They have varying degree of abstraction and visual gradients for dynamic privacy visualisation.
+
+**[PreTrained_Models](https://drive.google.com/drive/folders/1Vb2muDMs6b3YCdFgbTsCYYDSI2v3E9Bv?usp=sharing)**
 
 ## Facades
 
 ### Sacral Architecture Motifs
+
+Dataset Input
+
 ![Global Altar Image Dataset](content/altar_preview.jpg)
 
 **[Altar DataSet](https://drive.google.com/drive/folders/1DZkYbFLu9nIpemP4tfRJkyxAFVj9qGnn?usp=sharing)**
 
-Model Output Sample
+Model Output
 
 ![Model Output](/content/altar_model_output.gif)
 
@@ -60,11 +69,14 @@ Model Output Sample
  
 
 ### Facades of Vienna, AT
+
+Dataset Input
+
 ![Global Altar Image Dataset](/content/facades_dataset.jpg)
 
 **[Altar DataSet](https://drive.google.com/file/d/1Zcs2XAS4YxJJEf3VHqFdR0E5Npr1wqXV/view?usp=sharing)**
 
-Model Output Sample
+Model Output
 
 ![Model Output](content/facade_model_output.gif)
 
