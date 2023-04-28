@@ -85,12 +85,3 @@ Model Output
 ![Model Output](content/facade_model_output.gif)
 
 **[Pretrained .plk Model](https://drive.google.com/file/d/1woaGw76VyJXyjbHZrT710yS5XHSgLq_K/view?usp=sharing)**
-
-
-## Images
-
-![Images Preview Image](/path/to/images_preview_image.png)
-
-**[Images dataset on Google Drive](https://drive.google.com/drive/folders/your-images-dataset-link)**
-
-I hope this helps! Let me know if you have any further questions.
