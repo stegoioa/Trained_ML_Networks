@@ -29,7 +29,7 @@ In order to preprocess Images for StyleGan2ADA and PIx2PIXHD wokflows refer to:
 
 ### Typological Information of Vienna, AT
 
-![Urban Scale Preview Image](/content/dataset_maps_preview.jpg)
+![Urban Scale Preview Image](/content/dataset_maps_preview2.jpg)
 
 **[Tesselated HeightMap DataSet](https://drive.google.com/drive/folders/1K5diQ3pUusKVF9E_v_GBK5JxtNN_99UA?usp=share_link)**
 
